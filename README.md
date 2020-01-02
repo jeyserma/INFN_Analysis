@@ -1,2 +1,2 @@
 # CMS FEB ANALYSIS
-This branch contains the scripts to run the analysis for the CMS FEB tests on a 1.4 mm chamber, performed in spring 2019 in 904. 
+This branch contains the scripts to run the analysis for the CMS FEB tests on a 1.4 mm chamber, performed in May 2019 in the 904 laboratory. For more info about the data taking, see CMS_FEB_Results.pdf . 

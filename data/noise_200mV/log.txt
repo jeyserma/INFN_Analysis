@@ -1,0 +1,89 @@
+2019-05-03.18:41:23.[HVscan][0] Initialize HVSCAN 355
+2019-05-03.18:41:23.[HVscan][490] Initialize DAQ
+2019-05-03.16:41:23.[HVscan] Start TDC mapping file
+2019-05-03.16:41:23.[HVscan] Generate dimensions file
+2019-05-03.16:41:23.[HVscan] Generate first daq.ini file
+2019-05-03.18:41:25.[HVscan][496] Start DAQ
+2019-05-03.18:41:27.[HVscan][63] Start HVScan
+2019-05-03.18:41:27.[HVscan][0] Scanning point HV1
+2019-05-03.18:41:27.                                                    
+2019-05-03.18:41:27.                                                    
+2019-05-03.18:41:27.                                                    
+2019-05-03.18:41:27.           *****       *****   *****                
+2019-05-03.18:41:27.        ***********    *****   *****                
+2019-05-03.18:41:27.      **************   *****   *****                
+2019-05-03.18:41:27.     ******     *****  *****   *******              
+2019-05-03.18:41:27.    ******    ******   *****   *******              
+2019-05-03.18:41:27.    ******   ******    *****   *****                
+2019-05-03.18:41:27.     ******            *****   *****   *            
+2019-05-03.18:41:27.      ******  *****    *****    ***** ***           
+2019-05-03.18:41:27.        **********     *****     *********          
+2019-05-03.18:41:27.            ***                    ****             
+2019-05-03.18:41:27.                                         **     **  
+2019-05-03.18:41:27.                                       ****** ******
+2019-05-03.18:41:27.                                         **     **  
+2019-05-03.18:41:27.                                                    
+2019-05-03.18:41:27.                                                    
+2019-05-03.18:41:27.****************************************************
+2019-05-03.18:41:27.******    DAQ Program 16/11/17 Version 4.0    ******
+2019-05-03.18:41:27.****************************************************
+2019-05-03.18:41:27.[DAQ] Initialisation of the TDCs. Please wait, this may take a few minutes...
+2019-05-03.18:41:27.[v1718] RANDOM Trigger pulse frequency is set to100Hz
+2019-05-03.18:41:27.[HVscan][143] Generate daq.ini file
+2019-05-03.18:41:27.[HVscan][0] Set voltages, ramping...
+2019-05-03.18:41:37.[HVscan][0] Ramping completed, wait for waiting time...
+2019-05-03.18:41:51.[TDC0] Match Window Width : 10000ns
+2019-05-03.18:41:51.[TDC0] Window Offset : 10025ns
+2019-05-03.18:41:51.[TDC0] Extra Search Window Width : 0ns
+2019-05-03.18:41:51.[TDC0] Reject Margin : 0ns
+2019-05-03.18:41:51.[TDC0] Trigger Time Subtraction : 25ns
+2019-05-03.18:41:56.[TDC0] Edge readout : Trailing
+2019-05-03.18:42:00.[TDC0] Resolution : 100ps
+2019-05-03.18:42:05.[TDC0] Channel dead time : 5ns
+2019-05-03.18:42:08.[TDC0] TDC header/trailer status (on/off) : Enabled
+2019-05-03.18:42:13.[TDC0] Maximum number of hit/event : Unlimited
+2019-05-03.18:42:24.[TDC0] Status - A00-15 : ffff
+2019-05-03.18:42:25.[TDC0] Status - A16-31 : ffff
+2019-05-03.18:42:26.[TDC0] Status - B00-15 : ffff
+2019-05-03.18:42:27.[TDC0] Status - B16-31 : ffff
+2019-05-03.18:42:28.[TDC0] Status - C00-15 : 0000
+2019-05-03.18:42:29.[TDC0] Status - C16-31 : 0000
+2019-05-03.18:42:30.[TDC0] Status - D00-15 : 0000
+2019-05-03.18:42:31.[TDC0] Status - D16-31 : 0000
+2019-05-03.18:42:31.[DAQ] Initialisation done
+2019-05-03.18:46:37.[HVscan][0] Waiting time ended
+2019-05-03.18:46:37.[HVscan][0] Wait until DAQ is ready for data taking
+2019-05-03.18:46:37.[HVscan][0] Received status READY from DAQ, start data taking
+2019-05-03.18:46:39.[DAQ] Run about to start...
+2019-05-03.18:46:41.[HVscan][0] Reset CAEN connection and start monitoring CAEN parameters
+2019-05-03.18:46:41.[DAQ] Run is of type noise_reference - starting random trigger pulses
+2019-05-03.18:46:41.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root started
+2019-05-03.18:46:41.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 0%
+2019-05-03.18:47:05.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 5%
+2019-05-03.18:47:30.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 10%
+2019-05-03.18:47:55.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 15%
+2019-05-03.18:48:21.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 20%
+2019-05-03.18:48:46.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 25%
+2019-05-03.18:49:12.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 30%
+2019-05-03.18:49:36.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 35%
+2019-05-03.18:50:02.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 40%
+2019-05-03.18:50:27.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 45%
+2019-05-03.18:50:53.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 50%
+2019-05-03.18:51:18.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 55%
+2019-05-03.18:51:44.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 60%
+2019-05-03.18:52:08.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 65%
+2019-05-03.18:52:33.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 70%
+2019-05-03.18:52:59.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 75%
+2019-05-03.18:53:24.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 80%
+2019-05-03.18:53:50.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 85%
+2019-05-03.18:54:15.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 90%
+2019-05-03.18:54:40.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 95%
+2019-05-03.18:55:05.[DAQ] Run /var/webdcs/HVSCAN/000355/Scan000355_HV1_DAQ.root 100%
+2019-05-03.18:55:06.[DAQ] Stopping random trigger pulses
+2019-05-03.18:55:06.[DAQ] A total of 25016 events collected in 867s (28.8535Hz)
+2019-05-03.18:55:06.[DAQ] Run finished. Waiting for the next signal...
+2019-05-03.18:55:08.[HVscan][0] Send STOP command to DAQ!
+2019-05-03.18:55:08.[DAQ-STOP] STOP command received - DAQ will shut down
+2019-05-03.18:55:10.[HVscan][367] Run DQM
+2019-05-03.18:55:10.[HVscan][0] Keep latest voltages on detectors
+2019-05-03.18:55:20.[HVscan][0] HVscan successfully ended!

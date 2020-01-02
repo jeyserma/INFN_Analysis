@@ -1,0 +1,30 @@
+{
+    "output_parameters": {
+        "noiseTimeWindowBegin": 381.0, 
+        "efficiencyMuon_err": 0.026872273258103176, 
+        "efficiencyMuon": 0.9207920792079208, 
+        "muonTimeWindowEnd": 361.0, 
+        "muonCMP_err": 0.2277227722772277, 
+        "efficiencyAbs": 0.9207920792079208, 
+        "muonCMP": 1.0, 
+        "muonCLS": 1.900990099009901, 
+        "muonTimeWindowBegin": 304.0, 
+        "muonTimeWindow": 57.0, 
+        "muonCLS_err": 0.3526030022357074, 
+        "noiseRate": -1, 
+        "noiseTimeWindow": 219.0, 
+        "efficiencyAbs_err": 0.026872273258103176, 
+        "muonWindowMean": 332.5, 
+        "muonWindowSigma": 9.5, 
+        "noiseTimeWindowEnd": 600
+    }, 
+    "input_parameters": {
+        "scanid": 359, 
+        "scanType": "efficiency", 
+        "muonWindowWidth": 3, 
+        "timeWindowReject": 100, 
+        "noiseOffsetFromMuonWindow": 20, 
+        "triggerWindow": 600, 
+        "HVPoint": 5
+    }
+}
