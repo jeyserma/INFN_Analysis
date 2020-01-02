@@ -1,0 +1,220 @@
+2019-10-20.09:53:19.[HVscan][0] Initialize HVSCAN 73
+2019-10-20.09:53:19.[HVscan][490] Initialize DAQ
+2019-10-20.07:53:19.[HVscan][1] Initialize TDC DAQ
+2019-10-20.07:53:19.[HVscan][1] Start TDC mapping file
+2019-10-20.07:53:19.[HVscan][1] Generate dimensions file
+2019-10-20.07:53:19.[HVscan][1] Generate first daq.ini file
+2019-10-20.07:53:19.[HVscan] Generate daq.ini file
+2019-10-20.09:53:21.[HVscan][496] Start DAQ
+2019-10-20.07:53:21.[HVscan][1] Start TDC DAQ
+2019-10-20.09:53:23.[HVscan][63] Start HVScan
+2019-10-20.09:53:23.[HVscan][0] Scanning point HV1
+2019-10-20.09:53:23.[HVscan][143] Generate daq.ini file
+2019-10-20.07:53:23.[HVscan] Generate daq.ini file
+2019-10-20.09:53:23.[HVscan][0] Set voltages, ramping...
+2019-10-20.09:53:23.                                                    
+2019-10-20.09:53:23.                                                    
+2019-10-20.09:53:23.                                                    
+2019-10-20.09:53:23.           *****       *****   *****                
+2019-10-20.09:53:23.        ***********    *****   *****                
+2019-10-20.09:53:23.      **************   *****   *****                
+2019-10-20.09:53:23.     ******     *****  *****   *******              
+2019-10-20.09:53:23.    ******    ******   *****   *******              
+2019-10-20.09:53:23.    ******   ******    *****   *****                
+2019-10-20.09:53:23.     ******            *****   *****   *            
+2019-10-20.09:53:23.      ******  *****    *****    ***** ***           
+2019-10-20.09:53:23.        **********     *****     *********          
+2019-10-20.09:53:23.            ***                    ****             
+2019-10-20.09:53:23.                                         **     **  
+2019-10-20.09:53:23.                                       ****** ******
+2019-10-20.09:53:23.                                         **     **  
+2019-10-20.09:53:23.                                                    
+2019-10-20.09:53:23.                                                    
+2019-10-20.09:53:23.****************************************************
+2019-10-20.09:53:23.******    DAQ Program 16/11/17 Version 4.0    ******
+2019-10-20.09:53:23.****************************************************
+2019-10-20.09:53:23.[DAQ] Initialisation of the TDCs. Please wait, this may take a few minutes...
+2019-10-20.09:53:23.[v1718] RANDOM Trigger pulse frequency is set to50Hz
+2019-10-20.09:53:47.[TDC0] Match Window Width : 600ns
+2019-10-20.09:53:47.[TDC0] Window Offset : 725ns
+2019-10-20.09:53:47.[TDC0] Extra Search Window Width : 0ns
+2019-10-20.09:53:47.[TDC0] Reject Margin : 0ns
+2019-10-20.09:53:47.[TDC0] Trigger Time Subtraction : 25ns
+2019-10-20.09:53:51.[TDC0] Edge readout : Trailing
+2019-10-20.09:53:56.[TDC0] Resolution : 100ps
+2019-10-20.09:54:01.[TDC0] Channel dead time : 5ns
+2019-10-20.09:54:04.[TDC0] TDC header/trailer status (on/off) : Enabled
+2019-10-20.09:54:09.[TDC0] Maximum number of hit/event : Unlimited
+2019-10-20.09:54:20.[TDC0] Status - A00-15 : ffff
+2019-10-20.09:54:21.[TDC0] Status - A16-31 : ffff
+2019-10-20.09:54:22.[TDC0] Status - B00-15 : ffff
+2019-10-20.09:54:23.[TDC0] Status - B16-31 : ffff
+2019-10-20.09:54:24.[TDC0] Status - C00-15 : ffff
+2019-10-20.09:54:25.[TDC0] Status - C16-31 : ffff
+2019-10-20.09:54:26.[TDC0] Status - D00-15 : ffff
+2019-10-20.09:54:27.[TDC0] Status - D16-31 : ffff
+2019-10-20.09:54:27.[DAQ] Initialisation done
+2019-10-20.09:54:33.[HVscan][0] Ramping completed, wait for waiting time...
+2019-10-20.09:56:33.[HVscan][0] Waiting time ended
+2019-10-20.09:56:33.[HVscan][0] Wait until DAQ is ready for data taking
+2019-10-20.09:56:33.[HVscan][0] Received status READY from DAQ, start data taking
+2019-10-20.09:56:35.[DAQ] Run about to start...
+2019-10-20.09:56:36.[HVscan][0] Reset CAEN connection and start monitoring CAEN parameters
+2019-10-20.09:56:37.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV1_DAQ.root started
+2019-10-20.09:56:37.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV1_DAQ.root 0%
+2019-10-20.10:53:13.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV1_DAQ.root 70%
+2019-10-20.10:56:41.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV1_DAQ.root 75%
+2019-10-20.11:20:35.[DAQ] Run finished. Waiting for the next signal...
+2019-10-20.11:20:36.[HVscan][0] Scanning point HV2
+2019-10-20.11:20:36.[HVscan][143] Generate daq.ini file
+2019-10-20.09:20:36.[HVscan] Generate daq.ini file
+2019-10-20.11:20:36.[HVscan][0] Set voltages, ramping...
+2019-10-20.11:20:46.[HVscan][0] Ramping completed, wait for waiting time...
+2019-10-20.11:22:46.[HVscan][0] Waiting time ended
+2019-10-20.11:22:46.[HVscan][0] Wait until DAQ is ready for data taking
+2019-10-20.11:22:46.[HVscan][0] Received status READY from DAQ, start data taking
+2019-10-20.11:22:47.[DAQ] Run about to start...
+2019-10-20.11:22:49.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV2_DAQ.root started
+2019-10-20.11:22:49.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV2_DAQ.root 0%
+2019-10-20.11:22:49.[HVscan][0] Reset CAEN connection and start monitoring CAEN parameters
+2019-10-20.11:29:33.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV2_DAQ.root 10%
+2019-10-20.11:50:24.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV2_DAQ.root 35%
+2019-10-20.11:53:27.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV2_DAQ.root 40%
+2019-10-20.12:09:10.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV2_DAQ.root 60%
+2019-10-20.12:43:59.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV2_DAQ.root 100%
+2019-10-20.12:44:00.[DAQ] Run finished. Waiting for the next signal...
+2019-10-20.12:44:01.[HVscan][0] Scanning point HV3
+2019-10-20.12:44:01.[HVscan][143] Generate daq.ini file
+2019-10-20.10:44:01.[HVscan] Generate daq.ini file
+2019-10-20.12:44:01.[HVscan][0] Set voltages, ramping...
+2019-10-20.12:44:11.[HVscan][0] Ramping completed, wait for waiting time...
+2019-10-20.12:46:11.[HVscan][0] Waiting time ended
+2019-10-20.12:46:11.[HVscan][0] Wait until DAQ is ready for data taking
+2019-10-20.12:46:11.[HVscan][0] Received status READY from DAQ, start data taking
+2019-10-20.12:46:12.[DAQ] Run about to start...
+2019-10-20.12:46:14.[HVscan][0] Reset CAEN connection and start monitoring CAEN parameters
+2019-10-20.12:46:14.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV3_DAQ.root started
+2019-10-20.12:46:14.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV3_DAQ.root 0%
+2019-10-20.13:14:42.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV3_DAQ.root 45%
+2019-10-20.13:40:28.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV3_DAQ.root 75%
+2019-10-20.14:00:20.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV3_DAQ.root 100%
+2019-10-20.14:00:21.[DAQ] Run finished. Waiting for the next signal...
+2019-10-20.14:00:22.[HVscan][0] Scanning point HV4
+2019-10-20.14:00:22.[HVscan][143] Generate daq.ini file
+2019-10-20.12:00:22.[HVscan] Generate daq.ini file
+2019-10-20.14:00:22.[HVscan][0] Set voltages, ramping...
+2019-10-20.14:00:32.[HVscan][0] Ramping completed, wait for waiting time...
+2019-10-20.14:02:32.[HVscan][0] Waiting time ended
+2019-10-20.14:02:32.[HVscan][0] Wait until DAQ is ready for data taking
+2019-10-20.14:02:32.[HVscan][0] Received status READY from DAQ, start data taking
+2019-10-20.14:02:33.[DAQ] Run about to start...
+2019-10-20.14:02:35.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV4_DAQ.root started
+2019-10-20.14:02:35.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV4_DAQ.root 0%
+2019-10-20.14:02:35.[HVscan][0] Reset CAEN connection and start monitoring CAEN parameters
+2019-10-20.14:40:48.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV4_DAQ.root 65%
+2019-10-20.14:48:30.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV4_DAQ.root 75%
+2019-10-20.15:07:42.[DAQ] Run finished. Waiting for the next signal...
+2019-10-20.15:07:43.[HVscan][0] Scanning point HV5
+2019-10-20.15:07:43.[HVscan][143] Generate daq.ini file
+2019-10-20.13:07:43.[HVscan] Generate daq.ini file
+2019-10-20.15:07:43.[HVscan][0] Set voltages, ramping...
+2019-10-20.15:07:53.[HVscan][0] Ramping completed, wait for waiting time...
+2019-10-20.15:09:53.[HVscan][0] Waiting time ended
+2019-10-20.15:09:53.[HVscan][0] Wait until DAQ is ready for data taking
+2019-10-20.15:09:53.[HVscan][0] Received status READY from DAQ, start data taking
+2019-10-20.15:09:54.[DAQ] Run about to start...
+2019-10-20.15:09:56.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV5_DAQ.root started
+2019-10-20.15:09:56.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV5_DAQ.root 0%
+2019-10-20.15:09:57.[HVscan][0] Reset CAEN connection and start monitoring CAEN parameters
+2019-10-20.15:19:44.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV5_DAQ.root 15%
+2019-10-20.15:37:06.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV5_DAQ.root 35%
+2019-10-20.15:40:18.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV5_DAQ.root 40%
+2019-10-20.15:47:47.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV5_DAQ.root 45%
+2019-10-20.15:59:41.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV5_DAQ.root 55%
+2019-10-20.16:05:27.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV5_DAQ.root 60%
+2019-10-20.16:44:52.[DAQ] Run finished. Waiting for the next signal...
+2019-10-20.16:44:54.[HVscan][0] Scanning point HV6
+2019-10-20.16:44:54.[HVscan][143] Generate daq.ini file
+2019-10-20.14:44:54.[HVscan] Generate daq.ini file
+2019-10-20.16:44:54.[HVscan][0] Set voltages, ramping...
+2019-10-20.16:45:04.[HVscan][0] Ramping completed, wait for waiting time...
+2019-10-20.16:47:04.[HVscan][0] Waiting time ended
+2019-10-20.16:47:04.[HVscan][0] Wait until DAQ is ready for data taking
+2019-10-20.16:47:04.[HVscan][0] Received status READY from DAQ, start data taking
+2019-10-20.16:47:06.[DAQ] Run about to start...
+2019-10-20.16:47:07.[HVscan][0] Reset CAEN connection and start monitoring CAEN parameters
+2019-10-20.16:47:08.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV6_DAQ.root started
+2019-10-20.16:47:08.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV6_DAQ.root 0%
+2019-10-20.16:59:50.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV6_DAQ.root 10%
+2019-10-20.17:18:15.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV6_DAQ.root 35%
+2019-10-20.17:20:08.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV6_DAQ.root 40%
+2019-10-20.18:09:00.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV6_DAQ.root 100%
+2019-10-20.18:09:01.[DAQ] Run finished. Waiting for the next signal...
+2019-10-20.18:09:01.[HVscan][0] Scanning point HV7
+2019-10-20.18:09:01.[HVscan][143] Generate daq.ini file
+2019-10-20.16:09:01.[HVscan] Generate daq.ini file
+2019-10-20.18:09:01.[HVscan][0] Set voltages, ramping...
+2019-10-20.18:09:11.[HVscan][0] Ramping completed, wait for waiting time...
+2019-10-20.18:11:11.[HVscan][0] Waiting time ended
+2019-10-20.18:11:11.[HVscan][0] Wait until DAQ is ready for data taking
+2019-10-20.18:11:11.[HVscan][0] Received status READY from DAQ, start data taking
+2019-10-20.18:11:13.[DAQ] Run about to start...
+2019-10-20.18:11:14.[HVscan][0] Reset CAEN connection and start monitoring CAEN parameters
+2019-10-20.18:11:15.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV7_DAQ.root started
+2019-10-20.18:11:15.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV7_DAQ.root 0%
+2019-10-20.18:39:03.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV7_DAQ.root 40%
+2019-10-20.18:43:55.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV7_DAQ.root 45%
+2019-10-20.18:48:38.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV7_DAQ.root 50%
+2019-10-20.19:08:03.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV7_DAQ.root 75%
+2019-10-20.19:23:01.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV7_DAQ.root 95%
+2019-10-20.19:29:37.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV7_DAQ.root 105%
+2019-10-20.19:29:39.[DAQ] Run finished. Waiting for the next signal...
+2019-10-20.19:29:40.[HVscan][0] Scanning point HV8
+2019-10-20.19:29:40.[HVscan][143] Generate daq.ini file
+2019-10-20.17:29:40.[HVscan] Generate daq.ini file
+2019-10-20.19:29:40.[HVscan][0] Set voltages, ramping...
+2019-10-20.19:29:50.[HVscan][0] Ramping completed, wait for waiting time...
+2019-10-20.19:31:50.[HVscan][0] Waiting time ended
+2019-10-20.19:31:50.[HVscan][0] Wait until DAQ is ready for data taking
+2019-10-20.19:31:50.[HVscan][0] Received status READY from DAQ, start data taking
+2019-10-20.19:31:51.[DAQ] Run about to start...
+2019-10-20.19:31:53.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV8_DAQ.root started
+2019-10-20.19:31:53.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV8_DAQ.root 0%
+2019-10-20.19:31:53.[HVscan][0] Reset CAEN connection and start monitoring CAEN parameters
+2019-10-20.19:56:52.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV8_DAQ.root 35%
+2019-10-20.20:00:23.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV8_DAQ.root 40%
+2019-10-20.20:07:27.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV8_DAQ.root 50%
+2019-10-20.20:12:34.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV8_DAQ.root 55%
+2019-10-20.20:41:30.[DAQ] Run finished. Waiting for the next signal...
+2019-10-20.20:41:32.[HVscan][0] Scanning point HV9
+2019-10-20.20:41:32.[HVscan][143] Generate daq.ini file
+2019-10-20.18:41:32.[HVscan] Generate daq.ini file
+2019-10-20.20:41:32.[HVscan][0] Set voltages, ramping...
+2019-10-20.20:41:42.[HVscan][0] Ramping completed, wait for waiting time...
+2019-10-20.20:43:42.[HVscan][0] Waiting time ended
+2019-10-20.20:43:42.[HVscan][0] Wait until DAQ is ready for data taking
+2019-10-20.20:43:42.[HVscan][0] Received status READY from DAQ, start data taking
+2019-10-20.20:43:42.[DAQ] Run about to start...
+2019-10-20.20:43:44.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root started
+2019-10-20.20:43:44.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 0%
+2019-10-20.20:43:45.[HVscan][0] Reset CAEN connection and start monitoring CAEN parameters
+2019-10-20.21:01:54.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 25%
+2019-10-20.21:17:04.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 40%
+2019-10-20.21:19:12.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 45%
+2019-10-20.21:23:49.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 50%
+2019-10-20.21:29:44.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 55%
+2019-10-20.21:32:34.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 60%
+2019-10-20.21:34:35.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 65%
+2019-10-20.21:37:45.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 70%
+2019-10-20.21:41:42.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 75%
+2019-10-20.21:47:10.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 80%
+2019-10-20.21:49:00.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 85%
+2019-10-20.21:51:58.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 90%
+2019-10-20.21:55:49.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 95%
+2019-10-20.21:58:34.[DAQ] Run /var/webdcs/HVSCAN/000073/Scan000073_HV9_DAQ.root 100%
+2019-10-20.21:58:35.[DAQ] Run finished. Waiting for the next signal...
+2019-10-20.21:58:36.[HVscan][0] Send STOP command to DAQ!
+2019-10-20.21:58:37.[DAQ-STOP] STOP command received - DAQ will shut down
+2019-10-20.21:58:38.[HVscan][367] Run DQM
+2019-10-20.21:58:38.[HVscan][0] Set HV to 5000 V
+2019-10-20.21:58:48.[HVscan][0] HVscan successfully ended!
